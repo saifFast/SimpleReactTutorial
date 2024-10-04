@@ -5,7 +5,8 @@ import ReturnImage from "./Image";
 
 function App()
 {
-  return (<div className="App">
+  return (
+    <div className="App">
     <h1>Hello Saif</h1>
     <Greeting/>
     <GreetingWithProp name= "Prop Bhaiya"/>
